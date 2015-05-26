@@ -1,6 +1,8 @@
 # RNAsnv_models
 GBM models for RNAsnv
 
+Consolidated model file for use in RNAvc configuration file can be found in releases section of RNAvc (https://github.com/bdownie/RNAvc/releases/latest)
+
 File name | Edit class | R model name | Description
 -------|--------|------- | ----------
 Error.model | Variant call error | gbm.error.model | Error model (false positive variant call)
